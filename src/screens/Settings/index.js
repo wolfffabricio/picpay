@@ -1,6 +1,14 @@
 import React from 'react';
-import { Text } from 'react-native';
+import { Wrapper, ScrollView, Container, } from './styles';
 
 export default function Settings() {
-    return <Text>Settings</Text>
+    return (
+        <Wrapper>
+            <ScrollView>
+                <Container>
+                    
+                </Container>
+            </ScrollView>
+        </Wrapper>
+    );
 }
