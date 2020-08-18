@@ -13,49 +13,42 @@ import img7 from '../../../../images/doacoes/07.png';
 
 const items = [
     {
-        key: String(Math.random()),
         img: img1,
         title: 'Amigos do bem',
         titleIcon: 'shopping-bag',
         description: 'Doe e ajude o sertão nordestino contra a COVID-19',
     },
     {
-        key: String(Math.random()),
         img: img2,
         title: 'Mesa Brasil TO',
         titleIcon: 'shopping-bag',
         description: 'Doe para ajudar a instituíção a oferecer ações educativas e de distribuição de alimentos par...',
     },
     {
-        key: String(Math.random()),
         img: img3,
         title: 'CUFA (Mães da favela)',
         titleIcon: 'shopping-bag',
         description: 'Doe e ajude as favelas a combater a COVID-19',
     },
     {
-        key: String(Math.random()),
         img: img4,
         title: 'Instituto Ronald McDonald',
         titleIcon: 'shopping-bag',
         description: 'Doe e ajude a prevenir crianças e adolescentes com câncer da COVID-19',
     },
     {
-        key: String(Math.random()),
         img: img5,
         title: 'Médicos sem fronteiras',
         titleIcon: 'shopping-bag',
         description: 'Doe e ajude MSF a responder a responder à pandemia de COVID-19 e outras emergências pelo mundo!...',
     },
     {
-        key: String(Math.random()),
         img: img6,
         title: 'UNICEF',
         titleIcon: 'shopping-bag',
         description: 'Doe e ajude a UNICEF a fornecer vacinas, materiais escolares e recursos necessários pa...',
     },
     {
-        key: String(Math.random()),
         img: img7,
         title: 'Visão mundial',
         titleIcon: 'shopping-bag',
